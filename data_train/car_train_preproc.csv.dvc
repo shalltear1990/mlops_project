@@ -1,0 +1,5 @@
+outs:
+- md5: 1220d348c9abca69b691518e63a3dc6e
+  size: 723304
+  hash: md5
+  path: car_train_preproc.csv

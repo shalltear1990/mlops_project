@@ -1,0 +1,5 @@
+outs:
+- md5: dcdacf0cdd247c8ba64a0cfb501b0f13
+  size: 4765
+  hash: md5
+  path: preproc_pipe.pkl
